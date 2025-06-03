@@ -1,0 +1,2 @@
+scrollbar-width: none; /* For Firefox */
+nav::-webkit-scrollbar { display: none; } /* For Chrome, Safari, Opera */
